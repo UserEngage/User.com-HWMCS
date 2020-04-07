@@ -1,0 +1,37 @@
+*.pyc
+*.swp
+*.swo
+*.bak
+*.geany
+*.DS_Store
+*.rdb
+*.pid
+.DS_Store
+**/.DS_Stores
+
+.ropeproject/
+.vscode/
+
+# Pycharm project files
+/.idea/
+
+# Sublime project files
+*.sublime-project
+*.sublime-workspace
+
+yarn-error.log
+
+npm-debug.log
+
+/local_deploy/
+
+*.codekit3
+/.project
+/.pydevproject
+
+*.gz
+
+# pipenv
+Pipfile
+Pipfile.lock
+.env
